@@ -1,0 +1,3 @@
+Assignment-001
+
+Write python code to annotate the image file "assignment-001-given.jpg" so that it looks like the image file "assignment-001-result.jpg".
